@@ -1,0 +1,11 @@
+{
+  "dbConfig": {
+    "connString": "mongodb+srv://mongo_"
+  },
+    "web_api": {
+        "c-ask-uri": "https://10.46.24.62:8080/api/getdata",
+        "oask-gtp-uri": "http://localhost:3000",
+        "init_history_hh_count": 24
+  },
+  "update_timeout_ms" : 5000
+}

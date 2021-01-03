@@ -1,0 +1,145 @@
+{
+    "name": "КС-Бобровницька-05.Рвх КС",
+    "short_name": "Рвх",
+    "full_name": "Мринське ВУПЗГ.ПСГ Червоні партизани.КС-Бобровницька-05.Рвх КС",
+    "min": "0",
+    "max": "100",
+    "security": 100,
+    "enabled": true,
+    "_id": 100,
+    "control_id": 7,
+    "created_at": "2020-12-30T20:59:26.144Z",
+    "__v": 0,
+    "values": [
+        {
+            "num_value": 45.5,
+            "str_value": "45.5",
+            "str_current_time": "2020-12-01T07:00:00.000Z",
+            "_id": "5fecea4967c77b4a47444ce6",
+            "current_time": "2020-12-01T07:00:00.000Z"
+        },
+        {
+            "num_value": 45.5,
+            "str_value": "45.5",
+            "str_current_time": "2020-12-01T08:00:00.000Z",
+            "_id": "5fecea9267c77b4a47444d62",
+            "current_time": "2020-12-01T08:00:00.000Z"
+        },
+        {
+            "num_value": 45.5,
+            "str_value": "45.5",
+            "str_current_time": "2020-12-01T09:00:00.000Z",
+            "_id": "5fecedbc67c77b4a47444e53",
+            "current_time": "2020-12-01T09:00:00.000Z"
+        },
+        {
+            "num_value": 45.5,
+            "str_value": "45.5",
+            "str_current_time": "2020-12-01T10:00:00.000Z",
+            "_id": "5fecee4d67c77b4a47444f53",
+            "current_time": "2020-12-01T10:00:00.000Z"
+        },
+        {
+            "num_value": 45.5,
+            "str_value": "45.5",
+            "str_current_time": "2020-12-01T11:00:00.000Z",
+            "_id": "5fecee5d67c77b4a47444f8f",
+            "current_time": "2020-12-01T11:00:00.000Z"
+        },
+        {
+            "num_value": 45.5,
+            "str_value": "45.5",
+            "str_current_time": "2020-12-01T12:00:00.000Z",
+            "_id": "5fecee9167c77b4a47444fd9",
+            "current_time": "2020-12-01T12:00:00.000Z"
+        },
+        {
+            "num_value": 45.5,
+            "str_value": "45.5",
+            "str_current_time": "2020-12-01T13:00:00.000Z",
+            "_id": "5feceea567c77b4a47445015",
+            "current_time": "2020-12-01T13:00:00.000Z"
+        },
+        {
+            "num_value": 55.5,
+            "str_value": "55.5",
+            "str_current_time": "2020-12-01T14:00:00.000Z",
+            "_id": "5feceed767c77b4a47445065",
+            "current_time": "2020-12-01T14:00:00.000Z"
+        },
+        {
+            "num_value": 45.5,
+            "str_value": "45.5",
+            "str_current_time": "2020-12-01T15:00:00.000Z",
+            "_id": "5fecf05d67c77b4a47445174",
+            "current_time": "2020-12-01T15:00:00.000Z"
+        },
+        {
+            "num_value": 45.5,
+            "str_value": "45.5",
+            "str_current_time": "2020-12-01T16:00:00.000Z",
+            "_id": "5fecf13167c77b4a4744523f",
+            "current_time": "2020-12-01T16:00:00.000Z"
+        },
+        {
+            "num_value": 45.5,
+            "str_value": "45.5",
+            "str_current_time": "2020-12-01T17:00:00.000Z",
+            "_id": "5fecf54967c77b4a4744537a",
+            "current_time": "2020-12-01T17:00:00.000Z"
+        },
+        {
+            "num_value": 45.5,
+            "str_value": "45.5",
+            "str_current_time": "2020-12-01T18:00:00.000Z",
+            "_id": "5fecf55c67c77b4a474453b7",
+            "current_time": "2020-12-01T18:00:00.000Z"
+        },
+        {
+            "num_value": 45.5,
+            "str_value": "45.5",
+            "str_current_time": "2020-12-01T20:00:00.000Z",
+            "_id": "5feeedf867c77b4a4744596d",
+            "current_time": "2020-12-01T20:00:00.000Z"
+        },
+        {
+            "num_value": 45.5,
+            "str_value": "45.5",
+            "str_current_time": "2020-12-30T10:00:00.000Z",
+            "_id": "5fecee0e67c77b4a47444ea7",
+            "current_time": "2020-12-30T10:00:00.000Z"
+        },
+        {
+            "num_value": 45.5,
+            "str_value": "45.5",
+            "str_current_time": "2020-12-30T11:00:00.000Z",
+            "_id": "5fecee2067c77b4a47444ee3",
+            "current_time": "2020-12-30T11:00:00.000Z"
+        },
+        {
+            "num_value": 12.2,
+            "str_value": "12.2",
+            "str_current_time": "2020-12-30T23:00:00.000Z",
+            "_id": "5fecf66067c77b4a4744546a",
+            "current_time": "2020-12-30T23:00:00.000Z"
+        },
+        {
+            "num_value": 12.2,
+            "str_value": "12.2",
+            "str_current_time": "2021-01-01T11:00:00.000Z",
+            "_id": "5feef01467c77b4a474459e8",
+            "current_time": "2021-01-01T11:00:00.000Z"
+        }
+    ],
+    "group": [
+        {
+            "_id": 100,
+            "avg": 42.17058823529412,
+            "sum": 716.9,
+            "min": 12.2,
+            "max": 55.5,
+            "first": 45.5,
+            "last": 12.2
+        }
+    ]
+}
