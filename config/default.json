@@ -5,7 +5,8 @@
     "web_api": {
         "c-ask-uri": "https://10.46.24.62:8080/api",
         "oask-gtp-uri": "http://localhost:3000",
-        "init_history_hh_count": 3
+        "oask-gtp-uri1":"https://oask-gtp-web-api2.herokuapp.com",
+        "init_history_hh_count": 500
   },
-  "update_timeout_ms" : 60000
+  "update_timeout_ms" : 600000
 }

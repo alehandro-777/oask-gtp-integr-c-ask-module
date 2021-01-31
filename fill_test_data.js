@@ -4,7 +4,7 @@ const web_api = require('./web-api')
 const moment = require("moment")
 
 const start_time = "2021-01-01T00:00:00"
-const end_time =   "2021-01-02T00:00:00"
+const end_time =   "2021-01-21T00:00:00"
 
 const req_data_to = moment(end_time);
 const req_data_from = moment(start_time);
